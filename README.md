@@ -10,7 +10,7 @@
 
 - 🔭 I'm currently working on **Rozgo** — a locally-focused platform
 - 🌱 I'm currently diving deep into **Deep Learning**
-- 👯 I'm looking to collaborate on **[YOUR ANSWER HERE]**
+- 👯 I'm looking to collaborate on **full-stack AI applications, prompt engineering research, and ML/AI open-source projects **
 - 💬 Ask me about **Python, Logic Building, Prompt Engineering, or Machine Learning**
 - 📫 Reach me at: **hassan.raza678999@gmail.com**
 - ⚡ Fun fact: **I have a weird habit of always finding a way to complete any task thrown at me — and occasionally explaining things so well it surprises even me**
